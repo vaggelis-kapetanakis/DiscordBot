@@ -1,0 +1,16 @@
+{
+  "name": "ttn-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot For TTN Discord Warzone Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juice",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "discord.js.old": "^11.6.5",
+    "dotenv": "^16.0.1"
+  }
+}
